@@ -3,18 +3,18 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.example.myapp"
+        id        = "com.fashhood.mobileapp"
         version   = "1.0.0">
 
     <!-- Change app id (above), name, description, and author. App ID can be any reverse domain name, such as com.mycompany.app -->
-    <name>AppPresser</name>
+    <name>Fashhood</name>
 
     <description>
-        Example AppPresser app.
+        Fashhood App - companion app to the fashhood.com website.
     </description>
 
-    <author href="http://apppresser.com" email="youremail@yourdomain.com">
-        AppPresser
+    <author href="http://ticktockdesign.com" email="david@ticktockdesign.com">
+        David Horn - ticktockdesign.com
     </author>
 
     <preference name="phonegap-version" value="3.6.3" />
@@ -30,12 +30,10 @@
     <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0" />
     <gap:plugin name="nl.x-services.plugins.socialsharing" version="4.3.8" />
     <gap:plugin name="org.apache.cordova.camera" version="0.3.2" />
-    <gap:plugin name="org.apache.cordova.contacts" version="0.2.13" />
     <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
     <gap:plugin name="org.apache.cordova.dialogs" version="0.2.10" />
     <gap:plugin name="org.apache.cordova.file" version="1.3.1" />
     <gap:plugin name="org.apache.cordova.file-transfer" version="0.4.6" />
-    <gap:plugin name="org.apache.cordova.geolocation" version="0.3.10" />
     <gap:plugin name="org.apache.cordova.inappbrowser" version="0.5.2" />
     <gap:plugin name="org.apache.cordova.media-capture" version="0.3.3" />
     <gap:plugin name="org.apache.cordova.network-information" version="0.2.12" />
