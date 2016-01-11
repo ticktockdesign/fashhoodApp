@@ -48,7 +48,7 @@
     <preference name="webviewbounce" value="false" />
 
     <!-- If you are seeing a blank screen on Android on app load, uncomment SplashScreenDelay preference -->
-    <!--preference name="SplashScreenDelay" value="10000" /-->
+    <preference name="SplashScreenDelay" value="10000" />
 
     <!-- No need to edit below this line -->
     <gap:splash src="splash.png"/>
